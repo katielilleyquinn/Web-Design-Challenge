@@ -62,3 +62,6 @@ You must deploy your website to GitHub pages, with the website working on a live
 Be sure to use a CSS media query for the navigation menu.
 Be sure your website works at all window widths/sizes.
 Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
+
+
+Resources: I used https://www.convertcsv.com/csv-to-html.htm to convert my cities.csv file to html as seen on the Data page of my website. 
